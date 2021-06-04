@@ -1,0 +1,9 @@
+springfox:
+  documentation:
+    swagger:
+      v2:
+        path: /api-doc
+
+props:
+  pathToFile: "D://study/homework/homework_1/src/main/resources/status_rcoi.csv"
+  threshold: "100"
